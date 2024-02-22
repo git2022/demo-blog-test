@@ -1,1 +1,1 @@
-# demo-blog-test
+# mkdocs-blog-template
